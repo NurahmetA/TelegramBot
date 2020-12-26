@@ -21,8 +21,13 @@ namespace ConsoleApp1
 
         static void Main(string[] args)
         {
-            User user = new User();
-            Console.WriteLine();
+            TelegramBotConsole.Models.User user = new TelegramBotConsole.Models.User();
+            Console.WriteLine(user.AllPropsInit());
+            /*user.City = "a";
+            user.Email = "b";
+            user.Firstname = "C";
+            user.Lastname = "d";
+            user.*/
             /*botClient = new TelegramBotClient(BotSettings.Key);
             var commands = new CommandsService(botClient);
             botClient.OnMessage += commands.OnReceivingMessage;

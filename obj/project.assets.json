@@ -5662,11 +5662,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\TelegramBotConsole.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\TelegramBot\\TelegramBotConsole.csproj",
       "projectName": "TelegramBotConsole",
-      "projectPath": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\TelegramBotConsole.csproj",
+      "projectPath": "C:\\Users\\ASUS\\source\\repos\\TelegramBot\\TelegramBotConsole.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\source\\repos\\TelegramBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

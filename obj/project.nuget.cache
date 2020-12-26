@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xKt7YWzyxa1BJhIjdp8QweN8aOEeVyltNEFiqH+A+WkX3Jgk2m2+QYCedjlb2m/K/aK/D40lFJ3/ARvyNri3Ug==",
+  "dgSpecHash": "GJn9oiYv4FLlkBwq+Y3i8OPOV8vWKWIPqPUDieV6qD7jYo3+nWQqH6A2zioeqd7p/pJiePxyoulNCQF2u1yppQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\ConsoleApp1\\TelegramBotConsole.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\source\\repos\\TelegramBot\\TelegramBotConsole.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
